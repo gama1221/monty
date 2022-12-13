@@ -81,5 +81,6 @@ cat bytecodes/FILENAME.m
 <hr/>
 
 ### Author
-- [Getinet Amare Mekonnen](https://www.github.com/gama1221)
+- [Getinet Amare Mekonnen](https://www.github.com/gama1221), and
+- [Basha Tadese][bashaasefa@gmail.com]
 - [Telegram](https://t.me/gama2112)
